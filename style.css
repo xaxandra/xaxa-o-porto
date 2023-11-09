@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Moirai+One&display=swap');
+body {
+    background: url(img/The\ first\ principles\ of\ programming.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#card {
+    text-align: center;
+    color: black;
+    max-width: 600px;
+    border-radius: 30px 0px 30px 0px;
+    margin: 60px auto;
+    padding: 20px;
+    box-shadow: 2px 3px 10px;
+    background-color: cornflowerblue;
+}
+img {
+    width: 150px;
+    outline: 3px black solid;
+    border-radius: 50%;
+}
+h1 {
+    font-size: 50px;
+    color:black;
+}
+p {
+    font-size: 20px;
+    color: black;
+}
+
+#contact img {
+    width: 40px;
+}
